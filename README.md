@@ -1,4 +1,4 @@
-# Final Project Batch 41 QA Sanbercode Kelompok 6
+# Final Project QA Sanbercode Batch 41 Kelompok 6
 This repository is a final project of Automation Testing from Sanbercode Quality Assurance Class Batch 41. Automation testing is done on the website https://itera-qa.azurewebsites.net/ with Selenium. 
 
 ## Team Members
