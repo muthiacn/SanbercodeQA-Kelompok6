@@ -4,7 +4,7 @@ This repository is a final project of Automation Testing from Sanbercode Quality
 ## Team Members
 
 - Kesya Fauziyah Isdi
-- Muthia Conitaaa
+- Muthia Conita
 - Taufiqul H
 
 ## Document
