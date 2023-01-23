@@ -17,7 +17,7 @@ This repository is a final project of Automation Testing from Sanbercode Quality
 | Name                | Task                      |
 | ------------------- | ------------------------- |
 | Kesya Fauziyah Isdi | Customer (CRUD)           |
-| Muthia Conita       | Sign Up, Login & Logout   |
+| Muthia Conita       | [Sign Up, ](https://github.com/muthiacn/SanbercodeQA-Kelompok6/tree/main/signup)[Login & Logout](https://github.com/muthiacn/SanbercodeQA-Kelompok6/tree/main/login-logout)   |
 | Taufiqul H          | [Dashboard](https://github.com/muthiacn/SanbercodeQA-Kelompok6/tree/Dashboard)                 | 
 
 ## Timeline
